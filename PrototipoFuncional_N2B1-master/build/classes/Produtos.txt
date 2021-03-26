@@ -1,0 +1,5 @@
+1 - Bebida - Coca-Cola Lata 350ml
+2 - Bebida - Água 500ml
+3 - Comida - Coxinha
+4 - bebida - cerveja 1L
+5 - Comida - Guarana

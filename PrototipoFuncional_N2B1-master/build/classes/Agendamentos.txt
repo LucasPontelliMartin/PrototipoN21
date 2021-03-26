@@ -1,0 +1,7 @@
+31/03/2021|Aniversario|19:00 ás 18:00|Avulso|Quadra Fechada
+27/03/2021|Aniversario|12:00 ás 14:00|Avulso|Salão1
+30/03/2021|Futebol|16:00 ás 18:00|Mensal|Salão1
+12/03/2021|Evento|15:00 ás 15:00|Avulso|Salão2
+31/03/2021|Aniversario|19:00 ás 18:00|Avulso|Quadra Fechada
+27/03/2021|Aniversario|12:00 ás 14:00|Avulso|Salão1
+30/03/2021|Futebol|16:00 ás 18:00|Mensal|Salão1
